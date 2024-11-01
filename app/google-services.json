@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "115505005664",
+    "project_id": "umgapauth",
+    "storage_bucket": "umgapauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115505005664:android:36e1507e4a32e32421ef05",
+        "android_client_info": {
+          "package_name": "com.jp.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeXqHC1ExKwvSAkt2WlnkhT6Q3R2zV1A4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
